@@ -1,18 +1,20 @@
-<h1>Olá, sou RAFAEL! <br/><a href="https://github.com/joshmadakor1">Analista</a>, <a href="https://www.linkedin.com/in/meulink/">Cybersecurity Profissional</a>, <a href="https://>YouTuber</a></h1>
+<h1>Olá, sou RAFAEL! <br/><a href="https://github.com/joshmadakor1">Analista</a>, <a href="https://www.linkedin.com/in/meulink/">Cybersecurity </a>, <a href="https://>YouTuber</a></h1>
 
 <h2>👨‍💻 :</h2>
-- <b></b>
+- <b>
+ 
+</b>
  
 - <b>Python</b>
 <h2>📺 Popular YouTube Videos</h2>
 
  <!-- Este é um comentário em HTML 
-[How to get into Cybersecurity Starting From Zero](https://)-->
+[How to get into Cybersecurity Starting From Zero](https://)
 - #[A Day in the Life of a Cybersecurity Anayst](https://)
 - #[How to Create a KeyLogger (C#)](https://www.youtube.com/)
 - #[Ransomware Demonstration (C#)](https://www.youtube.com)
 - #[Is WGU Legit?](https://www.youtube.com
-
+-->
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
