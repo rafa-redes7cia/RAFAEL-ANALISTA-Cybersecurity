@@ -1,9 +1,6 @@
 <h1>Olá, sou RAFAEL! <br/><a href="https://github.com/joshmadakor1">Analista</a>, <a href="https://www.linkedin.com/in/meulink/">Cybersecurity Profissional</a>, <a href="https://>YouTuber</a></h1>
 
 <h2>👨‍💻 :</h2>
-
-
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b></b>
  
 - <b>Python</b>
