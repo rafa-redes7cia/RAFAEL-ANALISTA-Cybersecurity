@@ -1,6 +1,6 @@
 <h1>Olá, sou RAFAEL! <br/> <!-- Este é um comentário em HTML <a href="https://github.com/joshmadakor1">-->Analista</a>, <a href="https://www.linkedin.com/in/meulink/">
-<!--<h2>👨‍💻 :</h2>
- Este é um comentário em HTML 
+<h2>👨‍💻 :</h2>
+ <!--Este é um comentário em HTML 
 - <b>Python</b> 
 - <b></b>
  -->
